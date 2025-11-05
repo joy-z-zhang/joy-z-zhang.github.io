@@ -14,3 +14,11 @@ I'm broadly interested in Bayesian statistics, particularly non-parametric regre
 Previously, I have done research in statistical phylogenetics and algebraic combinatorics. 
 
 
+---
+permalink: /
+title: "Publications"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
