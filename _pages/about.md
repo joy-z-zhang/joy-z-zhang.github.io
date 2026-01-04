@@ -9,7 +9,7 @@ redirect_from:
 
 I'm a PhD student at the <a href="https://www.cam.cornell.edu/cam">Center for Applied Math of Cornell University</a>, where I am fortunate to be advised by <a href="https://www.danielrkowal.com/">Dan Kowal</a>. 
 
-I’m broadly interested in Bayesian statistics, particularly non-parametric regression and longitudinal data analysis. Previously, I did research in statistical phylogenetics and algebraic combinatorics. 
+I’m broadly interested in Bayesian statistics, particularly non-parametric regression and hierarchical modeling. Previously, I did research in statistical phylogenetics and algebraic combinatorics. 
 
 ---
 
